@@ -32,4 +32,5 @@
 - [People API](https://github.com/ViniciusHP/people-api)
 - [Clientes API com Padrões de Projeto](https://github.com/ViniciusHP/dio-cliente-api)
 - [IaC com Serverless Framework](https://github.com/ViniciusHP/dio-serverless)
+- [Jogo Genius](https://github.com/ViniciusHP/genius)
 </details>
