@@ -19,8 +19,12 @@
   <summary>Pessoais</summary>
 
 - [Alvorecer](https://github.com/ViniciusHP/alvorecer)
+- [Autenticação API](https://github.com/ViniciusHP/autenticacao-api)
+- [Autenticação UI](https://github.com/ViniciusHP/autenticacao-ui)
 - [Conversor de Bases Numéricas](https://github.com/ViniciusHP/conversor-de-bases-numericas)
+- [Cotação Dólar](https://github.com/ViniciusHP/cotacao-dolar)
 </details>
+
 
 <details>
   <summary>Cursos e Bootcamps</summary>
